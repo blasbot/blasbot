@@ -45,12 +45,12 @@
 
 <h2>📜 Focused on</h2>
 
- 🔹 Frontend Specialist in React, Angular, Vue, Next, Svelte, Bootstrap, MUI, Antd, TailwindCSS.
- 🔹 Backend Specialist in Ruby on Rails, ASP.Net Core, Laravelm Node.js
- 🔹 Restful, GraphQL, 3rd Party, Web3 API integtation
- 🔹 MS-SQL, PostgreSQL, MongoDB, MySQL/MaraiDB
- 🔹 Software Engineering methodology, Software Design Patter, Database Architecture/Design, DevOps
- 🔹 Amazon AWS, Digital Ocean, Heroku
+ 🔹 Frontend Specialist in React, Angular, Vue, Next, Svelte, Bootstrap, MUI, Antd, TailwindCSS<br>
+ 🔹 Backend Specialist in Ruby on Rails, ASP.Net Core, Laravelm Node.js<br>
+ 🔹 Restful, GraphQL, 3rd Party, Web3 API integtation<br>
+ 🔹 MS-SQL, PostgreSQL, MongoDB, MySQL/MaraiDB<br>
+ 🔹 Software Engineering methodology, Software Design Patter, Database Architecture/Design, DevOps<br>
+ 🔹 Amazon AWS, Digital Ocean, Heroku<br>
  
 <h2>🧰 Skills</h2>
 
