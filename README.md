@@ -1,10 +1,12 @@
-<h1>React/Vue/Svelte/Angular/Laravel/Node/ASP.NET/Ruby on Rails</h1>
+<h1>React/Vue/Laravel/ASP.NET/Node/Blockchain/ChatGPT</h1>
 <h2>About me 👋</h2>
 
 - 🔥 High skilled Full-stack Engineer with tons of hands on experience
 - 💪 I am a specialist in
   * React, Vue.js, Angular, Svelte.js, Tailwind CSS, Bootstrap, Three.js ...
   * Ruby on Rails, ASP.Net Core, Node.js, Laravel ...
+  * Blockchain, Smart Contract, Solidity, Solana, NFT, DeFi
+  * OpenAI, ChatGPT
 - ⏰ Work on EST timezone.
 - 👯 Responsive Communication.
 - 😄 Long-term relationship
@@ -49,8 +51,9 @@
  🔹 Backend Specialist in Ruby on Rails, ASP.Net Core, Laravelm Node.js<br>
  🔹 Restful, GraphQL, 3rd Party, Web3 API integtation<br>
  🔹 MS-SQL, PostgreSQL, MongoDB, MySQL/MaraiDB<br>
- 🔹 Software Engineering methodology, Software Design Patter, Database Architecture/Design, DevOps<br>
+ 🔹 Software Design Patter, Database Architecture/Design, DevOps<br>
  🔹 Amazon AWS, Digital Ocean, Heroku<br>
+ 🔹 ChatGPT, OpenAI<br>
  
 <h2>🧰 Skills</h2>
 
